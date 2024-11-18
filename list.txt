@@ -3,3 +3,4 @@ abc
 http://testsafebrowsing.appspot.com/s/phishing.html
 neetcode.io
 yuvrajdarshankar.vercel.app
+http://malware.testing.google.test/testing/malware/
